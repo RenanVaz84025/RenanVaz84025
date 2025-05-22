@@ -6,6 +6,7 @@ Olá! 👋 Sou um estudante e profissional de TI a mais de 20 anos, apaixonado p
 oportunidade para ingressar na área de desenvolvimento.
 
 <h2>🛠️ Habilidades</h2>
+
 - HTML5 
 
 - CSS3
