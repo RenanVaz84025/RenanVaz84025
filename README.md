@@ -5,13 +5,13 @@
 Olá! 👋 Sou um estudante e profissional de TI a mais de 20 anos, apaixonado por tecnologia, me aventurando na programação e buscando a primeira 
 oportunidade para ingressar na área de desenvolvimento.
 
-🛠️ Habilidades
+<h2>🛠️ Habilidades</h2>
 - HTML5 
 - CSS3  
 - JavaScript  
 - Python
 
-🔥 Sobre mim
+<h2>🔥 Sobre mim</h2>
 Sou curioso e sempre buscando aprender novas tecnologias e tendências do desenvolvimento de software. Atualmente, estou estudando frameworks modernos e aprimorando minhas habilidades em Front End.
 Se quiser trocar ideias ou colaborar em projetos, me encontre por aqui:
 
