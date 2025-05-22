@@ -19,6 +19,7 @@ oportunidade para ingressar na área de desenvolvimento.
 Sou curioso e sempre buscando aprender novas tecnologias e tendências do desenvolvimento de software. Atualmente, estou estudando frameworks modernos e aprimorando minhas habilidades em Front End.
 Se quiser trocar ideias ou colaborar em projetos, me encontre por aqui:
 
+<h2>Contato</h2>
 
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](renan_vaz1@hotmail.com)
 
