@@ -2,7 +2,7 @@
 
 <h1>💻 RenanVaz84025 </h1>- Estudante de Sistemas de Informação(Universidade Anhanguera) e Desenvolvimento Full Stack na +PraTI
 
-Olá! 👋 Sou um estudante e profissional de TI a mais de 20 anos, apaixonado por tecnologia, me aventurando na programação e buscando a primeira 
+Olá!👋 Sou um estudante e profissional de TI a mais de 20 anos, apaixonado por tecnologia, me aventurando na programação e buscando a primeira 
 oportunidade para ingressar na área de desenvolvimento.
 
 <h2>🛠️ Habilidades</h2>
