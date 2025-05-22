@@ -16,6 +16,6 @@ Sou curioso e sempre buscando aprender novas tecnologias e tendências do desenv
 Se quiser trocar ideias ou colaborar em projetos, me encontre por aqui:
 
 📧 renan_vaz1@hotmail.com
-🔗 https://www.linkedin.com/in/renan-luiz-bezerra-vaz-93a741163/
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-luiz-bezerra-vaz-93a741163/)
 
 
